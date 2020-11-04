@@ -1,6 +1,4 @@
-# forge.tutorial.viewhubmodels - .NET Core
-
-# CW Updated Information in README
+# Updated Information
 
 This is copied from https://github.com/Autodesk-Forge/learn.forge.viewhubmodels/tree/netcore
 
@@ -8,6 +6,14 @@ Video showing the entire tutorial: https://www.youtube.com/watch?v=nMj_QMnspEk
 
 Configuring Properties/Debug is better explained here: https://learnforge.autodesk.io/#/environment/setup/netcore_3legged
 
+Listing hubs/projects https://learnforge.autodesk.io/#/datamanagement/hubs/readme
+
+## Forge
+
+https://github.com/Autodesk-Forge/forge-api-dotnet-client Forge API Client for .NET
+  Open issue: https://github.com/Autodesk-Forge/forge-api-dotnet-client/issues/76
+
+---
 # Description
 
 This sample is part of the [Learn Forge](http://learnforge.autodesk.io) tutorials. It includes authentication, listing and viewing files.
