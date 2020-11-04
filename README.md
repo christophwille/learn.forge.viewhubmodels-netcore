@@ -1,18 +1,12 @@
 # forge.tutorial.viewhubmodels - .NET Core
 
-# Description
+# CW Updated Information in README
 
-![Platforms](https://img.shields.io/badge/platform-Windows-lightgray.svg)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-2.1-blue.svg)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-2.1-blue.svg)](https://asp.net/)
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://opensource.org/licenses/MIT)
+This is copied from https://github.com/Autodesk-Forge/learn.forge.viewhubmodels/tree/netcore
 
-[![oAuth2](https://img.shields.io/badge/oAuth2-v1-green.svg)](http://developer.autodesk.com/)
-[![Data-Management](https://img.shields.io/badge/Data%20Management-v1-green.svg)](http://developer.autodesk.com/)
-[![OSS](https://img.shields.io/badge/OSS-v2-green.svg)](http://developer.autodesk.com/)
-[![Model-Derivative](https://img.shields.io/badge/Model%20Derivative-v2-green.svg)](http://developer.autodesk.com/)
+Video showing the entire tutorial: https://www.youtube.com/watch?v=nMj_QMnspEk
 
-![Intermediate](https://img.shields.io/badge/Level-Basic-green.svg)
+Configuring Properties/Debug is better explained here: https://learnforge.autodesk.io/#/environment/setup/netcore_3legged
 
 # Description
 
